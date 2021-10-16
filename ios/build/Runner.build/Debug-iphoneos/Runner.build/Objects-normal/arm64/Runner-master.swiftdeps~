@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "ba359d4b739c70b53323dea1e83239d1"
+build_time: [1631505238, 334991000]
+inputs:
+  "/Users/lucassuarez/Developer/code/flutter/bbva_app/ios/Runner/AppDelegate.swift": [1618584476, 0]
