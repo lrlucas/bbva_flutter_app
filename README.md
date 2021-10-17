@@ -4,14 +4,10 @@ A new Flutter project.
 
 ## Applications screens
 
-Screen 1
-![screen 1](assets/screen_1.png)
+<img src="assets/screen_1.png" height="700" />
 
-Screen 2
-![screen 1](assets/screen_2.png)
+<img src="assets/screen_2.png" height="700" />
 
-Screen 3
-![screen 1](assets/screen_3.png)
+<img src="assets/screen_3.png" height="700" />
 
-Screen 4
-![screen 1](assets/screen_4.png)
+<img src="assets/screen_4.png" height="700" />
